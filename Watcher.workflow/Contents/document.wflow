@@ -325,7 +325,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>Keyword to find in Safari tab URL:</string>
+							<string>Keyword to find in tab URL:</string>
 						</array>
 					</dict>
 					<key>requireInput</key>
@@ -353,7 +353,7 @@
 					<key>defaultAnswer</key>
 					<string>dev</string>
 					<key>defaultMessage</key>
-					<string>Keyword to find in Safari tab URL:</string>
+					<string>Keyword to find in tab URL:</string>
 					<key>requireInput</key>
 					<true/>
 				</dict>
